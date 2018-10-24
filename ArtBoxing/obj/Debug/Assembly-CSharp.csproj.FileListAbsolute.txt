@@ -1,0 +1,2 @@
+C:\Users\u1166626\Documents\GitHub\AbstractPunchesRound2\ArtBoxing\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\u1166626\Documents\GitHub\AbstractPunchesRound2\ArtBoxing\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
